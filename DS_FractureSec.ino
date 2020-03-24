@@ -42,7 +42,7 @@ void enum_enter() {
 }
 
 void disarm_defender() {
-    // Open the windows search from taskbar
+   // Open the windows search from taskbar
   DigiKeyboard.sendKeyStroke(KEY_ESC, MOD_CONTROL_LEFT);
   DigiKeyboard.delay(700);
 

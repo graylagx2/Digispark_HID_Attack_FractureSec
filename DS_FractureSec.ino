@@ -17,6 +17,7 @@ Disclaimer:         This is open source from https://github.com/graylagx2 and is
                     
 Warning:            Line number 112 requires you to change the download web address. Further all file paths are set to
                     example: "C:\\Program Files (x86)\\MicrosoftLagService.zip". Take note of these paths or modify as needed.
+                    Inspect the registry edits this script performs you may not need them all.
 
 */
 

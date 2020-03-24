@@ -58,7 +58,7 @@ void disarm_defender() {
   enum_enter();
   DigiKeyboard.delay(2600);
 
-  // Tab down to manage settings. Loop tab x 4 (0,1,2,3,4)
+  // Tab down to manage settings. Loop tab x 4 (0,1,2,3)
   for (int i = 0; i <= 3; i++) {
     DigiKeyboard.sendKeyStroke(KEY_TAB);
     DigiKeyboard.delay(500);
